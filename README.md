@@ -6,7 +6,7 @@
 ## Ideia Geral
 
 Foi desenvolvido uma API do zero em Node.js e utilizando o framework express, o projeto é um CRUD (Create, Read, Update and Delete).
-Também foram utilizados o Nodemon para live reload e o banco de dados MongoDB em nuvem, utilizando mongoose.
+Também foram utilizados o Nodemon para live reload e o banco de dados MongoDB em nuvem, utilizando mongoose para consultas.
 
 ## Aprendizados
 
